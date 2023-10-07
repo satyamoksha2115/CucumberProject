@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src/test/java" isTestSource="true" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="selenium-support-4.8.3" level="project" />
+    <orderEntry type="library" name="4.12" level="project" />
+    <orderEntry type="library" name="selenium-support-4.8.0" level="project" />
+    <orderEntry type="library" name="selenium-api-4.9.1" level="project" />
+    <orderEntry type="library" name="7.4.0" level="project" />
+    <orderEntry type="library" name="junit" level="project" />
+    <orderEntry type="library" name="selenium-chrome-driver-4.8.0" level="project" />
+    <orderEntry type="library" name="junit-3.8.2" level="project" />
+    <orderEntry type="library" name="7.11.26" level="project" />
+    <orderEntry type="library" name="selenium-edge-driver-4.8.0" level="project" />
+    <orderEntry type="library" name="7.11.22" level="project" />
+    <orderEntry type="library" name="junit-3.8.1" level="project" />
+    <orderEntry type="library" name="selenium-edge-driver-4.9.1" level="project" />
+    <orderEntry type="library" name="4.9.08" level="project" />
+    <orderEntry type="library" name="3.141.591" level="project" />
+    <orderEntry type="library" name="selenium-chrome-driver-4.9.1" level="project" />
+    <orderEntry type="library" name="6.11" level="project" />
+    <orderEntry type="library" name="4.9.0" level="project" />
+    <orderEntry type="library" name="4.9.04" level="project" />
+    <orderEntry type="library" name="4.11.014" level="project" />
+    <orderEntry type="library" name="7.8.0" level="project" />
+    <orderEntry type="library" name="7.11.27" level="project" />
+    <orderEntry type="library" name="optional" level="project" />
+    <orderEntry type="library" name="4.11.011" level="project" />
+    <orderEntry type="library" name="lib2" level="project" />
+    <orderEntry type="library" name="selenium-support-4.9.1" level="project" />
+    <orderEntry type="library" name="android-34" level="project" />
+    <orderEntry type="library" name="plugins5" level="project" />
+    <orderEntry type="library" name="selenium-chrome-driver-4.8.2" level="project" />
+    <orderEntry type="library" name="plugins" level="project" />
+    <orderEntry type="library" name="3.141.594" level="project" />
+    <orderEntry type="library" name="junit-4.13.1" level="project" />
+    <orderEntry type="library" name="munit-remote-2.3.7-jar-with-dependencies" level="project" />
+    <orderEntry type="library" name="selenium-edge-driver-4.8.2" level="project" />
+    <orderEntry type="library" name="4.13.2" level="project" />
+    <orderEntry type="library" name="4.9.014" level="project" />
+    <orderEntry type="library" name="selenium-api-4.8.2" level="project" />
+    <orderEntry type="library" name="selenium-api-4.8.0" level="project" />
+    <orderEntry type="library" name="selenium-chrome-driver-4.8.3" level="project" />
+    <orderEntry type="library" name="4.11.05" level="project" />
+    <orderEntry type="library" name="7.1.0" level="project" />
+    <orderEntry type="library" name="4.11.09" level="project" />
+    <orderEntry type="library" name="selenium-edge-driver-4.8.3" level="project" />
+    <orderEntry type="library" name="selenium-support-4.8.2" level="project" />
+    <orderEntry type="library" name="selenium-api-4.8.3" level="project" />
+    <orderEntry type="library" name="3.141.592" level="project" />
+    <orderEntry type="library" name="3.141.596" level="project" />
+    <orderEntry type="module" module-name="Android" />
+  </component>
+</module>
